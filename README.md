@@ -1,20 +1,24 @@
-# Pong
+* Read this in other languages: [English](README.md), [Portuguese](README.pt.md)
 
-### Getting Started 
+<div align="center">
+	<h1><strong>Pong</strong></h1>
+</div>
 
 Classic pong game made in python
 
-- Pong -> Implementation of "Pong", the game, in python3 using pygame
-  * Single-player : "pong.py"
-  * Multiplayer : "pong2p.py"
+### Getting Started 
 
+- Pong [Implementation of "Pong", the game, in python3 using pygame]
+  * Single Player : Single Player mode
+  * Multiplayer : Two Player mode
 
 * Run game modes with:
 
+Normal:
 ```
 python3 pong.py
-
-or 
-
+```
+2 Players:
+```
 python3 pong2p.py
 ```
